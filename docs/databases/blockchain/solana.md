@@ -6,9 +6,7 @@ title: Solana
 
 > Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 
-Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-kit) with Solana. This [article](https://lu.ma/p/3nHEa7k5DABpzE6/The-Solana-Programming-Model) & [thread](https://twitter.com/ayushmenon_/status/1476294409205526534) are nice intro guides. [Anchor](https://book.anchor-lang.com/) is great framework.
-
-[Proof of history: what is it good for?](https://www.shoup.net/papers/poh.pdf) is nice read too as it questions Solana's consensus mechanism.
+Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-kit) with Solana. This [article](https://lu.ma/p/3nHEa7k5DABpzE6/The-Solana-Programming-Model) & [thread](https://twitter.com/ayushmenon_/status/1476294409205526534) are nice intro guides. [Anchor](https://book.anchor-lang.com/) is best framework.
 
 I buy SOL with [Binance](https://www.binance.com/en-GB) (SEPA transfer). You can then [stake](https://www.reddit.com/r/solana/comments/soeadc/where_are_you_staking_your_solana/) SOL in many ways including Binance or [Marinade](https://marinade.finance/app/staking). Marinade is neat because from staked SOL, you get mSOL token which can act like SOL but you still get staked rewards. Or you can put mSOL into [liquidity pool](https://marinade.finance/app/mnde) or use it with [Solend](https://solend.fi) or similar services. I don't find them useful though.
 
@@ -65,6 +63,7 @@ I also think solving [micro transactions](https://news.ycombinator.com/item?id=3
 - [Solana Program Library](https://github.com/solana-labs/solana-program-library) - Collection of Solana-maintained on-chain programs.
 - [Solana GitHub](https://github.com/solana-labs)
 - [StableSwap](https://stableswap.pro/#/) - Adaptation of the Solana token-swap program implementing Curve's StableSwap invariant. ([Code](https://github.com/stableswap/stable-swap-program))
+- [Skunka-Tools](https://www.skunka-tools.xyz) - No-code plateform to create, update, deploy and manage your own SPL tokens. More Features to facilitate adoption coming soon.
 - [Solana: The World's Fastest Blockchain (fireside chat at Node) (2021)](https://www.youtube.com/watch?v=uhrU0W4J05w)
 - [Promising new projects of SOL Ecosystem (2021)](https://twitter.com/CryptoGodJohn/status/1386370402264432640)
 - [Fireside Chat with Jeremy Allaire (2021)](https://www.youtube.com/watch?v=w1Us2kEvqIg)
@@ -311,16 +310,3 @@ I also think solving [micro transactions](https://news.ycombinator.com/item?id=3
 - [Backpack](https://www.backpack.app/) - Home for your xNFTs. ([Code](https://github.com/coral-xyz/backpack))
 - [Solana RPC Crash-course](https://twitter.com/heliuslabs/status/1593758795024449536)
 - [Openbook](https://github.com/openbook-dex/program) - Dex solana program.
-- [Solana Tools](https://github.com/cryptoloutre/solana-tools) - Bunch of tools to help people in the Solana ecosystem.
-- [Solana Pay Scaffold](https://github.com/solana-labs/solana-pay-scaffold) - Scaffolding for a dapp using Solana Pay.
-- [Whirlpools](https://github.com/orca-so/whirlpools) - Open source concentrated liquidity AMM contract on Solana.
-- [Golana](https://github.com/oxfeeefeee/golana) - Write on Solana in Go.
-- [Proof of history: what is it good for? (2022)](https://www.shoup.net/papers/poh.pdf) ([Tweet](https://twitter.com/VictorShoup/status/1523015525814894597))
-- [Solana Froth VSCode](https://marketplace.visualstudio.com/items?itemName=SiriusHash.solana-froth) - Get info about Solana blockchain and wallets from VSCode. ([Code](https://github.com/Sirius-Hash/solana-froth-vscode))
-- [Bokken](https://github.com/Blade-Labs-Corp/bokken) - Solana program debugger. ([Web](https://www.blade.so/solana-debugger))
-- [Drift Protocol v2](https://github.com/drift-labs/protocol-v2) - On-chain perpetuals dex with multiple liquidity mechanisms.
-- [HowRare Solana RPC proxy](https://github.com/HowRareIs/solproxy) - Allow project creators to freely route Solana RPC calls to different Solana nodes utilizing prioritization and capping.
-- [Solana Improvement Documents](https://github.com/solana-foundation/solana-improvement-documents)
-- [Dexterity](https://github.com/solana-labs/dexterity) - Reference implementation of a decentralized exchange for custom instruments, risk, and fees in Solana.
-- [Firedancer](https://github.com/firedancer-io/firedancer) - Jump Crypto's Solana consensus node implementation.
-- [Tinydancer](https://github.com/tinydancer-io/half-baked-client) - Light Client for the Solana Blockchain.
